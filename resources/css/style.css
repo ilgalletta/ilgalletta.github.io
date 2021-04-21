@@ -1,9 +1,9 @@
-h1 {
+
+h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
-    font-size: larger;
     text-align: center;
 }
-p {
+p, ul {
     font-family: 'Roboto', sans-serif;
     font-size: large;
     text-align: center;
