@@ -3,21 +3,23 @@ body {
     background-color:aliceblue;
 }
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+
+
 .back {
-    font-family: 'Roboto', sans-serif;
-    font-size: large;   
+    font-family: 'Roboto', sans-serif; 
 }
-.entries {
+
+.post-text {
     font-family: 'Roboto', sans-serif;
     font-size: large;   
 }
 
-
-.footer {
-    font-family: 'Architects Daughter', cursive;
-    font-size: 18px;
-    text-align: center;
-}
 h1, h2, h3 {  
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
