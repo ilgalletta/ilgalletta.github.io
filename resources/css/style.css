@@ -1,6 +1,11 @@
+/* universal styles */
+
+html {
+    font-family: 'Roboto', sans-serif;    
+}
 
 body {
-    background-color: rgb(255, 246, 228);
+    background-color:aliceblue;
 }
 
 table {
@@ -10,11 +15,16 @@ table {
     border-spacing: 80px 5px;
 }
 
+h1, h3 {  
+    font-weight: bold;
+}
+
 
 .menu {
     font-family: 'Roboto', sans-serif;
     font-size: x-large;
-    text-align: center;    
+    text-align: center;
+    background-color:lightsteelblue;  
 }
 
 .intro {    
@@ -32,11 +42,9 @@ hr.solid {
     border-top: 1px solid #000000;
   }
 
+  /* footer */
 .footer {
     font-family: 'Architects Daughter', cursive;
     font-size: 18px;
     text-align: center;
-}
-h1, h3 {  
-    font-weight: bold;
 }
