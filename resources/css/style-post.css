@@ -3,38 +3,33 @@ html {
     font-family: 'Roboto', sans-serif;    
 }
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 80px 5px;
+}
+
+.menu {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    background-color:lightsteelblue;  
+}
+
 body {
     background-color:aliceblue;
 }
 
 .back {
+    font-family: 'Roboto', sans-serif; 
+}
+
+.post-text {
     font-family: 'Roboto', sans-serif;
     font-size: large;   
 }
 
-table {
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse: separate;
-    border-spacing: 20px;
-}
-
-.menu {
-    font-family: 'Roboto', sans-serif;
-    font-size: large;
-    text-align: center;
-}
-
-.entries {
-    font-family: 'Roboto', sans-serif;
-    font-size: large;   
-}
-
-.footer {
-    font-family: 'Architects Daughter', cursive;
-    font-size: 18px;
-    text-align: center;
-}
 h1, h2, h3 {  
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
