@@ -15,7 +15,11 @@ table {
     border-spacing: 80px 5px;
 }
 
-h1, h3 {  
+h1{
+    font-size: 50px;
+}
+
+h1, h2,  h3 {  
     font-weight: bold;
 }
 
@@ -27,11 +31,18 @@ h1, h3 {
     background-color:lightsteelblue;  
 }
 
+.intro-head {    
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
 .intro {    
     font-family: 'Roboto', sans-serif;
     font-size: large;
     text-align: center;
 }
+
 .contact {
     font-family: 'Roboto', sans-serif;
     font-size: large;
