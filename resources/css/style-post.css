@@ -1,11 +1,14 @@
 
 html {
-    font-family: 'Roboto', sans-serif;    
+    font-family: 'IBM Plex Mono', monospace;    
+}
+
+body {
+    background-color:aliceblue;
 }
 
 h1, h2, h3 {  
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
 }
 table {
     margin-left: auto;
@@ -15,22 +18,16 @@ table {
 }
 
 .menu {
-    font-family: 'Roboto', sans-serif;
     font-size: x-large;
     text-align: center;
     background-color:lightsteelblue;  
 }
 
-body {
-    background-color:aliceblue;
-}
-
 .back {
-    font-family: 'Roboto', sans-serif; 
+ 
 }
 
 .post-text {
-    font-family: 'Roboto', sans-serif;
     font-size: large;   
 }
 

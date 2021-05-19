@@ -1,7 +1,7 @@
 /* universal styles */
 
 html {
-    font-family: 'Roboto', sans-serif;    
+    font-family: 'IBM Plex Mono', monospace;    
 }
 
 body {
@@ -19,32 +19,33 @@ h1{
     font-size: 50px;
 }
 
-h1, h2,  h3 {  
+h1, h2,  h3, h4 {  
     font-weight: bold;
+}
+
+img {
+    border-radius: 8px;
+    border: 3px solid black;
 }
 
 
 .menu {
-    font-family: 'Roboto', sans-serif;
     font-size: x-large;
     text-align: center;
     background-color:lightsteelblue;  
 }
 
 .intro-head {    
-    font-family: 'Roboto', sans-serif;
     font-size: large;
     text-align: left;
 }
 
 .intro {    
-    font-family: 'Roboto', sans-serif;
     font-size: large;
     text-align: center;
 }
 
 .contact {
-    font-family: 'Roboto', sans-serif;
     font-size: large;
     text-align: center;
 }

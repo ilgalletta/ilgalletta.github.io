@@ -1,15 +1,14 @@
 
 html {
-    font-family: 'Roboto', sans-serif;    
+    font-family: 'IBM Plex Mono', monospace;    
 }
 
 body {
     background-color:aliceblue;
 }
 
-.back {
-    font-family: 'Roboto', sans-serif;
-    font-size: large;   
+h1, h2, h3 {  
+    font-weight: bold;
 }
 
 table {
@@ -19,24 +18,22 @@ table {
     border-spacing: 80px 5px;
 }
 
+.back {
+    font-size: large;   
+}
+
 .menu {
-    font-family: 'Roboto', sans-serif;
     font-size: x-large;
     text-align: center;
     background-color:lightsteelblue;  
 }
 
 .entries {
-    font-family: 'Roboto', sans-serif;
-    font-size: large;   
+    font-size: 24px;   
 }
 
 .footer {
     font-family: 'Architects Daughter', cursive;
     font-size: 18px;
     text-align: center;
-}
-h1, h2, h3 {  
-    font-weight: bold;
-    font-family: 'Roboto', sans-serif;
 }
