@@ -17,6 +17,8 @@ img {
 /* div styles */
 
 .top{
+    height: auto;
+    display: block;
     color: red;
     text-align: center;
 }
