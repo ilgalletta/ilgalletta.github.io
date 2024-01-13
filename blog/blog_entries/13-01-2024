@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LOGAZ BLOG</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=IBM+Plex+Mono&family=Roboto&display=swap"
+    rel="stylesheet">
+    <link href='../../resources/css/style-post.css' rel='stylesheet'>
+  </head>
+  <body>
+    <div class="back">
+        <p><a href="../blog_list.html"> <- Torna alla lista</a></p>
+    </div>
+    <article class="title"><h2>13-01-2024: Lasciare crescere</h2></article>
+    <article class="post-text">
+        <p><strong>*** [Bene, vediamo un po' come fiorisci]</strong><br>
+Bene, vediamo un po' come fiorisci, <br>
+come ti apri, di che colore hai i petali, <br>
+quanti pistilli hai, che trucchi usi  <br>
+per spargere il tuo polline e ripeterti, <br>
+se hai fioritura languida o violenta, <br>
+che portamento prendi, dove inclini, <br>
+se nel morire infradici o insecchisci, <br>
+avanti su, io guardo, tu fiorisci. <br>
+       <em> PATRIZIA CAVALLI </em><br>
+        </p>
+
+    </article>
+    <div class="post-data"></div>
+  </body>
+</html>
